@@ -9,6 +9,7 @@ public class HelloGit {
 		System.out.println("원격 저장소에서 작성!!");
 		System.out.println("한번에 pull해주세요!");
 		
+		
 	}
 	public void merge() {
 		System.out.println(2);
