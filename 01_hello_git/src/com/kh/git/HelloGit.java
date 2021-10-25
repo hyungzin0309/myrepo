@@ -10,5 +10,6 @@ public class HelloGit {
 	public void merge() {
 		System.out.println(2);
 		System.out.println(333);
+		System.out.println("이제 깃허브 repo에서 관리");
 	}
 }
