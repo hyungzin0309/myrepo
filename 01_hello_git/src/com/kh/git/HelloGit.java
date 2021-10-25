@@ -6,7 +6,7 @@ public class HelloGit {
 		System.out.println("hello web~");
 		System.out.println("hello animal~");
 		System.out.println("hello master~");
-		System.out.println("원격 저장소에서 작성!");
+		System.out.println("원격 저장소에서 작성!!");
 
 		
 	}
